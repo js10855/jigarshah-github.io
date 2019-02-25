@@ -1,2 +1,2 @@
-# jigarshah-github.io
+# jigarshah.github.io
 My personal website
